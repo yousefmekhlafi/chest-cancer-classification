@@ -19,6 +19,13 @@ set MLFLOW_TRACKING_URI=https://dagshub.com/yousefmekhlafi/end-to-end-chest-canc
 
 set MLFLOW_TRACKING_USERNAME=yousefmekhlafi 
 
-set MLFLOW_TRACKING_PASSWORD=0398b83a7cd324aae30d018d462072e3a2cb5bb6
+set MLFLOW_TRACKING_PASSWORD=d0b4cd5be27b19f397967c9b34dee2aec1d2afb1
 
 9c5f26ad32529e33b32d15bcba416ccf7ac84833
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/yousefmekhlafi/end-to-end-chest-cancer-classification-mlflow-dvc
+
+export MLFLOW_TRACKING_USERNAME=yousefmekhlafi 
+
+export MLFLOW_TRACKING_PASSWORD=d0b4cd5be27b19f397967c9b34dee2aec1d2afb1
+
