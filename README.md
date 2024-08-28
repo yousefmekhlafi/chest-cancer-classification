@@ -1,5 +1,7 @@
 # End to end chest cancer CNN classification with mlflow and DVC
 
+PROJECT STATUS: Functional
+
 # Project scope and goals
 
 1. Learn advanced python OOP concepts by reverse engineering open-source code
