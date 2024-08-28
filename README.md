@@ -2,7 +2,7 @@
 
 PROJECT STATUS: Functional
 
-# Project scope and goals
+# Project Scope and Goals
 
 1. Learn advanced python OOP concepts by reverse engineering open-source code
 2. Practice and get an idea on how mlflow and DVC work  
@@ -12,11 +12,12 @@ PROJECT STATUS: Functional
 6. Practicing CI/CD pipelines through Github actions and cloud deployment
 
 
-
 # Project Disclaimers 
 
-The project was done, copy/pasted and coded along DSwithbappy's YT channel 
+The project was done, and coded along DSwithbappy's YT channel 
+
 YT Link: https://www.youtube.com/watch?v=-NOIWzjJK-4
+
 Project code: https://github.com/entbappy/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC
 
 # How to run on your local machine: 
